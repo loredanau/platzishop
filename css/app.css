@@ -133,9 +133,11 @@ ul.nav {
 .col-lg-4 {
 	padding-bottom: 20px;
 }
+/*
 ul.pagination {
 	padding-left: 133px;
 }
+*/
 
 @media (max-width: 768px) {
 	.listado-productos {
@@ -155,6 +157,8 @@ ul.pagination {
 	background-color: #99c84a;
 	border-color: #99c84a;
 }
+
+
 
 
 

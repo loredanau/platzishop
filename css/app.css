@@ -129,6 +129,9 @@ ul.nav {
 #productos-container .list-group+.list-group {
 	margin-top: 1em;
 }
+div.list-group {
+	margin-top:8px;
+}
 
 .col-lg-4 {
 	padding-bottom: 20px;
@@ -149,6 +152,8 @@ ul.pagination {
 	}
 }
 
+
+
 #paginator-container .page-item:not(.active):not(.disabled) .page-link {
 	color: #99c84a;
 }
@@ -157,6 +162,16 @@ ul.pagination {
 	background-color: #99c84a;
 	border-color: #99c84a;
 }
+
+.container.carrito-items {
+	background-color: #f7f7f9;
+	margin-bottom: 1em;
+}
+
+div.row.text-center {
+	border-bottom: 1px solid black;
+}
+
 
 
 
